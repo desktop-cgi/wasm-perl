@@ -1,0 +1,15 @@
+{
+  "name": "wasm-perl",
+  "version": "1.0.0",
+  "description": "wasm-perl files for perl versions. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@chriskoch/perl-wasm": "^1.0.0"
+  },
+  "author": "Ganesh B <ganeshsurfs@gmail.com>",
+  "license": "MIT"
+}
